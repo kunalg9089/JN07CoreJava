@@ -1,5 +1,5 @@
 //Program to define child ClassC from ClassA
-package com.tnsif.day04.p1;
+package com.tnsif.Day4.p1;
 
 public class ClassC extends ClassA{
 	
