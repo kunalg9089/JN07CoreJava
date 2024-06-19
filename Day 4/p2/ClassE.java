@@ -1,5 +1,5 @@
 //Program to define child ClaasE from ClassA to demonstrate access specifier
-package com.tnsif.day04.p2;
+package com.tnsif.Day4.p2;
 
 import com.tnsif.dayfour.p1.ClassA;
 
