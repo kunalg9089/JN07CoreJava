@@ -1,0 +1,18 @@
+package com.tnsif.Day 6;
+
+public class Singleinheritance {
+
+	public static void main(String[] args) {
+		Person p1 = new Person();
+	//	System.out.println(p1.toString());
+		System.out.println(p1); //calling toString() method
+		
+		Person p2=new Person("Kunal",22);
+		System.out.println(p2);
+		
+		Student st1=new Student("Kunal",2004);
+		System.out.println(st1);
+		
+	}
+
+}
