@@ -1,4 +1,4 @@
-package com.tnsif.day09;
+package com.tnsif.Day 9;
 
 public class Point {
 	float pointA;
@@ -6,8 +6,8 @@ public class Point {
 	
 	public Point() {
 		
-		System.out.println("This is Points Class");
-	}
+		System.out.println("This is Point Class");
+	
 	
 	public Point(float value) {
 		
