@@ -1,4 +1,4 @@
-package com.tnsif.day09.covariantoverriding;
+package com.tnsif.Day 9.covariantoverriding;
 
 public class ClassC {
 	public String getType() 
