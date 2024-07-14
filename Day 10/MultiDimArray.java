@@ -1,4 +1,4 @@
-package com.tnsif.day10;
+package com.tnsif.Day10;
 
 import 
 public class MultiDimArray {
