@@ -1,4 +1,4 @@
-package com.tnsif.day10;
+package com.tnsif.Day10;
 public class searchInArray {
 //	public static void main(String[] args) {
 //		
